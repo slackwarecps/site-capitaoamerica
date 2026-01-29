@@ -6,13 +6,9 @@ Bem-vindo ao repositório do site promocional do Capitão América. Este projeto
 
 O site foi desenvolvido para atender aos seguintes objetivos:
 
-1.  **Apresentação Visual**: Exibir elementos gráficos de alta qualidade relacionados ao filme "Capitão América 2: O Soldado Invernal".
-2.  **Estrutura de Informação**:
-    *   **Topo**: Deve conter o título principal, imagem do personagem "Soldado Invernal" e a data de lançamento (04-04-14).
-    *   **Corpo**: Deve destacar o "Capitão América" e apresentar blocos de conteúdo informativo e multimídia (vídeo simulado).
-    *   **Rodapé**: Exibir ícones temáticos (escudo, capacete, estrela) em uma disposição de colunas.
-3.  **Compatibilidade**: O site deve ser renderizado corretamente em navegadores modernos, respeitando a codificação UTF-8.
-4.  **Acessibilidade**: Imagens fundamentais devem possuir descrições alternativas (alt text) para leitores de tela.
+1.  Ministrar aulas de HTML e CSS
+
+![alt text](doc/image.png)
 
 ## 🛠 Tecnologias Utilizadas
 
